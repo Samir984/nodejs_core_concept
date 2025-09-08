@@ -1,0 +1,2 @@
+Hello my name is samir
+Create a File /Users/samir/Desktop/nice.txt

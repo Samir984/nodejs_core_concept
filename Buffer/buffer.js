@@ -12,7 +12,7 @@ memoeryContainer[3] = 0x6c;
 
 memoeryContainer[4] = 0x6f;
 
-const myBuffer = Buffer.from("hi", "utf-8");
+const myBuffer = Buffer.from("hello", "utf-8");
 
 console.log(memoeryContainer.toString("utf-8"));
 console.log(myBuffer.toString("utf-8"));
